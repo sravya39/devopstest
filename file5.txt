@@ -1,1 +1,3 @@
 file to check conflicts in master
+file in b1
+
